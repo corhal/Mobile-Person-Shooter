@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/level0.unity
+    guid: c6f65c0ec033cc44c922e1dcd38206d4
+  - enabled: 1
+    path: Assets/Scenes/level_gun.unity
+    guid: ff9da95c05509bb49946475b95a99f72
+  - enabled: 1
+    path: Assets/Scenes/level_archer.unity
+    guid: 895b2e22634c69c48b18edf242d9562f
+  - enabled: 1
+    path: Assets/Scenes/lobby.unity
+    guid: c4a882e9e962a4d4081bf16589100d8b
